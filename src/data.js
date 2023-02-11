@@ -13,7 +13,7 @@ export default [
     {
         id: 2,
         cardPosition: "card-2",
-        image: './images/sydney-opera-house.jpg',
+        image: './images/sydney-opera.jpg',
         title: "SYDNEY OPERA",
         title2: "HOUSE",
         subtitle: "Sydney - Australia",
