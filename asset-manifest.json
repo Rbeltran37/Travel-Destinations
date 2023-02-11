@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/http%20://Rbeltran37.github.io/Travel-Destinations/static/css/main.02aaff42.css",
+    "main.js": "/http%20://Rbeltran37.github.io/Travel-Destinations/static/js/main.8f18b20d.js",
+    "index.html": "/http%20://Rbeltran37.github.io/Travel-Destinations/index.html",
+    "main.02aaff42.css.map": "/http%20://Rbeltran37.github.io/Travel-Destinations/static/css/main.02aaff42.css.map",
+    "main.8f18b20d.js.map": "/http%20://Rbeltran37.github.io/Travel-Destinations/static/js/main.8f18b20d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.02aaff42.css",
+    "static/js/main.8f18b20d.js"
+  ]
+}
