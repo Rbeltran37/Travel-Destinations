@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/http%20://Rbeltran37.github.io/Travel-Destinations/static/css/main.02aaff42.css",
-    "main.js": "/http%20://Rbeltran37.github.io/Travel-Destinations/static/js/main.8f18b20d.js",
-    "index.html": "/http%20://Rbeltran37.github.io/Travel-Destinations/index.html",
-    "main.02aaff42.css.map": "/http%20://Rbeltran37.github.io/Travel-Destinations/static/css/main.02aaff42.css.map",
-    "main.8f18b20d.js.map": "/http%20://Rbeltran37.github.io/Travel-Destinations/static/js/main.8f18b20d.js.map"
+    "main.css": "/Travel-Destinations/static/css/main.02aaff42.css",
+    "main.js": "/Travel-Destinations/static/js/main.8f18b20d.js",
+    "index.html": "/Travel-Destinations/index.html",
+    "main.02aaff42.css.map": "/Travel-Destinations/static/css/main.02aaff42.css.map",
+    "main.8f18b20d.js.map": "/Travel-Destinations/static/js/main.8f18b20d.js.map"
   },
   "entrypoints": [
     "static/css/main.02aaff42.css",
